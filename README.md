@@ -5,7 +5,6 @@ I am an **Informatics Engineering undergraduate** at **Universitas Komputer Indo
 I specialize in building comprehensive digital ecosystems—crafting responsive web interfaces, robust backends, and high-performance mobile applications. Beyond traditional development, I am deeply invested in the potential of **Artificial Intelligence (AI)**. My goal is to bridge the gap between software engineering and AI, creating intelligent, data-driven applications that solve real-world problems efficiently.
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gigafdlh" alt="gigafdlh" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Flutter architecture, Machine Learning concepts, and scalable Backend patterns.**
 
