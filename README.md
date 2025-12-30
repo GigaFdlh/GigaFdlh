@@ -54,10 +54,6 @@ I specialize in building comprehensive digital ecosystems—crafting responsive 
 
 "Kreativitas adalah kecerdasan yang bersenang-senang." — Albert Einstein
 
----
-
-📊 GitHub Stats
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DUSERNAME_GITHUB_KAMU%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" /> </p>
 
 ---
 
@@ -67,6 +63,4 @@ I specialize in building comprehensive digital ecosystems—crafting responsive 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/GigaFdlh)
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigafdlh&show_icons=true&locale=en" alt="gigafdlh" /></p>
 
